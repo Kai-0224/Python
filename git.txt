@@ -1,0 +1,14 @@
+### Always remember to store and track git
+Setup
+git config --global user.name "Kai-0224"
+git config --global user.email "fc303zaq@gmail.com"
+#Track
+git add *
+git commit -m "message"
+#Push to github
+git remote add origin1 https://github.com/Kai-0224/ML.git
+git branch -M main
+git push -u origin1 main
+#Remove file/dictionary
+git rm file_name
+git rm -r folder_name
