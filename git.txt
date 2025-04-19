@@ -2,6 +2,7 @@
 Setup
 git config --global user.name "Kai-0224"
 git config --global user.email "fc303zaq@gmail.com"
+git init
 #Track
 git add *
 git commit -m "message"
